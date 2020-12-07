@@ -1,0 +1,29 @@
+
+            <div class="footer-section Qlinks">
+                <h6>Quick Links</h6>
+                <ul>
+                    <a href="#">
+                        <li>about Us</li>
+                    </a>
+                    <a href="#">
+                        <li>Contact Us</li>
+                    </a>
+                    <a href="#">
+                        <li>Events</li>
+                    </a>
+                    <a href="#">
+                        <li>Terms and Conditions</li>
+                    </a>
+                    <a href="#">
+                        <li>Gallery</li>
+                    </a>
+                    <a href="https://classwithjeff.com/shortcut/?aff=sxw43&t="><li>Make Money?</li></a>
+                </ul>
+            </div>
+            <div class="footer-section contact-form">
+                Contact us
+            </div>
+
+
+            <p>&copy 2020 JavaScript sage | Designed by Oluwatosin Theophilus</p>
+            &copy 2020 JavaScript sage | Designed by Oluwatosin Theophilus
